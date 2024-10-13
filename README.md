@@ -14,7 +14,7 @@ The dataset used for this project is the Toronto Emotional Speech Set (TESS), wh
 - Pleasant Surprise
 - Sadness
 
-The TESS dataset is designed to explore how different emotions influence speech and is ideal for training models to distinguish between various emotional states. You can find the dataset here.
+The TESS dataset is designed to explore how different emotions influence speech and is ideal for training models to distinguish between various emotional states. You can find the dataset https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess.
 
 ## Project Features
 1. Deep Learning Model: The project uses deep learning techniques to build a robust model for emotion recognition. It involves preprocessing audio data and training the model using a neural network architecture.
